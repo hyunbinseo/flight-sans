@@ -1,0 +1,19 @@
+/* 버전: Version 1.000; Build 240925 */
+
+@font-face {
+	font-family: 'FlightSans';
+	font-weight: 400;
+	src: url('./FlightSans-Regular.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'FlightSans';
+	font-weight: 700;
+	src: url('./FlightSans-Bold.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'FlightSans';
+	font-weight: 800;
+	src: url('./FlightSans-Title.woff2') format('woff2');
+}
