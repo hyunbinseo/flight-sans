@@ -1,7 +1,7 @@
 {
 	"name": "flight-sans",
 	"description": "제주항공 플라이트 산스",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"scripts": {
 		"postversion": "git push && git push --tags"
 	},
