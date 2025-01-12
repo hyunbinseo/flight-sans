@@ -48,3 +48,14 @@ import 'flight-sans';
 ```
 
 </details>
+
+## 파일 크기
+
+<!-- tree -P "*.woff2" -h --du -->
+
+```
+[639K]  .
+├── [227K]  ./FlightSans-Bold.woff2
+├── [200K]  ./FlightSans-Regular.woff2
+└── [212K]  ./FlightSans-Title.woff2
+```
